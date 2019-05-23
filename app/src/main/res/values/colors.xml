@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#296DC1</color>
+    <color name="colorPrimaryDark">#1755B8</color>
+    <color name="colorAccent">#1755B8</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#1C5FB5</color>
+    <color name="birumuda">#2992CD</color>
+    <color name="birutua">#02255C</color>
+    <color name="yellow">#FFC107</color>
+    <color name="abu">#C8D5E8</color>
+
+
+    <color name="selected_dot">#2D9CDB</color>
+    <color name="idle_dot">#662D9CDB</color>
+
+    <color name="colornavunselected">#8D296DC1</color>
+
+    <color name="colorNavigationIcon">#dae9f6</color>
+    <color name="colorNavigationText">#ffffff</color>
+
+</resources>
