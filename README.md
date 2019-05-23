@@ -1,5 +1,6 @@
 # klinikapp
 
+#Screenshot
 ![alt text](Screenshot/2.jpg "Description goes here")
 ![alt text](Screenshot/3.jpg "Description goes here")
 ![alt text](Screenshot/4.jpg "Description goes here")
